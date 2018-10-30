@@ -1,2 +1,2 @@
-# arboriculture-survey
-An Ontario-based survey of employers and employees in the tree care sector. 
+# Arboriculture Survey
+An Ontario-based survey of employers and employees in the tree care sector. The survey data was collected via Google surveys in Fall 2017 by myself, Kate Raycraft, and my colleague Courtney McCann.  The project was a partnership between the Ontario Ministry of Training, Colleges, and Universities, the International Society of Arboriculture - Ontario, and the Ontario Commericial Arborist Association.
